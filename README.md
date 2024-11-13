@@ -1,5 +1,6 @@
 # Power-BI-Analysis-Blinkit-Trends
 
+![image](https://github.com/user-attachments/assets/7aeef8eb-f1a6-45bb-933b-20b3f572b92c)
 
 
 Blinkit Data Analysis using Power BI
